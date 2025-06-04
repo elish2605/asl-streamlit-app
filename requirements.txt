@@ -1,6 +1,6 @@
 streamlit
-mediapipe
-opencv-python
-numpy
+mediapipe==0.10.9
+pillow
 scikit-learn
-Pillow
+numpy
+opencv-python-headless
